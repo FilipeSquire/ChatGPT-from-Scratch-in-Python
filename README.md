@@ -1,1 +1,1 @@
-# ChatGPT-from-Scratch-in-Python
+# LLM Training from Scratch
